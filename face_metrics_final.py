@@ -240,7 +240,6 @@ while True:
         # Escrevendo nome da pessoa reconhecida
         if (confidence < 100):
             id = names[id]
-            id = "gabi"
             confidence = "  {0}%".format(round(100 - confidence))
         else:
             id = "unknown"
