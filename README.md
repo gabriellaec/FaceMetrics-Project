@@ -21,6 +21,9 @@ pip install keyboard
 1. Criar uma pasta chamada "users" - é nela que as fotos de cadastro de cada usuário ficarão guardadas
 2. Rodar o arquivo cadastro.py --> 20 fotos serão tiradas para o reconhecimento facial no vídeo
 3. Rodar o arquivo face_recognition_training.py para treinar o modelo de reconhecimento facial
-4. Rodar o código principal no arquivo face_metrics_final.py
+4. Rodar o código principal no arquivo [face_metrics_final.py](../master/face_metrics_final.py)
 5. Clicar na tecla H para visualizar as métricas em tempo real no terminal ou S para salvar em um arquivo
 6. Depois, as métricas coletadas podem ser consultadas no arquivo history.txt
+
+### Relatório e explicações 
+[viscomp-p2.pdf](../master/viscomp-p2.pdf)
